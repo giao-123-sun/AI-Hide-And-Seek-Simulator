@@ -66,7 +66,7 @@ AI Hide & Seek v1
 ---
 *祝你玩得开心！*
 
-
+<!-- 
 <style>
 img.center {
   display: block;
@@ -75,4 +75,4 @@ img.center {
 
 }
 </style>
-
+ -->
