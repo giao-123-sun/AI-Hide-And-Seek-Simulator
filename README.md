@@ -76,3 +76,8 @@ img.center {
 }
 </style>
  -->
+
+ACD todo list:
+- Designer reward design
+- Actor critic or GAN
+- Visualization and size adjustment
