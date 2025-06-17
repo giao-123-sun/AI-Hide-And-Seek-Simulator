@@ -1,5 +1,10 @@
 # AI Hide & Seek Simulator - Developer Documentation (v0.2)
 
+## Todo List
+- save function of current model
+- learning rate
+- dynamic environment
+
 ## 1. Project Overview
 
 * **Project Name:** AI Hide & Seek Simulator
