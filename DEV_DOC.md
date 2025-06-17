@@ -3,6 +3,7 @@
 ## Todo List
 - ~~save function of current model~~
 - ~~learning rate~~
+- best of all and last model checkpoint
 - dynamic environment
 
 ## 1. Project Overview
