@@ -14,7 +14,7 @@ PROP_TYPES = {
     'partition': {'model': 'cube', 'scale': (0.2, 4, 8), 'color': color.rgba(200, 200, 200, 200)},
 }
 LEVEL_LAYOUT = [ ('desk', (-12, 0, 10)), ('monitor', (-12, 0.5, 10)), ('chair', (-12, 0, 8)), ('desk', (-12, 0, 0)), ('monitor', (-12, 0.5, 0)), ('chair', (-12, 0, -2)), ('desk', (-12, 0, -10)), ('monitor', (-12, 0.5, -10)), ('chair', (-12, 0, -12)), ('partition', (-8, 0, 5)), ('desk', (12, 0, 10)), ('monitor', (12, 0.5, 10)), ('chair', (12, 0, 8)), ('desk', (12, 0, 0)), ('monitor', (12, 0.5, 0)), ('chair', (12, 0, -2)), ('desk', (12, 0, -10)), ('monitor', (12, 0.5, -10)), ('chair', (12, 0, -12)), ('partition', (8, 0, 5)), ('plant_pot', (0, 0, 0)), ('plant_pot', (0, 0, 5)), ]
-NUM_HIDERS = 3
+NUM_HIDERS = 1
 
 class Prop(Entity):
     # ... (Prop类的定义与之前相同)
